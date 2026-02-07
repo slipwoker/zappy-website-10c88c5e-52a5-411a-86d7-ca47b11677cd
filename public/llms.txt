@@ -1,0 +1,54 @@
+# TLV Electronic Solutions — Generative Engine Optimization Map
+
+> A אלקטרוניקה business.
+
+---
+
+## Pages
+
+### Home
+https://tlv-electronic-solutions-10c88c5e.zappy5.app
+
+### Services
+https://tlv-electronic-solutions-10c88c5e.zappy5.app/services
+
+### Solutions
+https://tlv-electronic-solutions-10c88c5e.zappy5.app/solutions
+
+### Contact
+https://tlv-electronic-solutions-10c88c5e.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://tlv-electronic-solutions-10c88c5e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://tlv-electronic-solutions-10c88c5e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://tlv-electronic-solutions-10c88c5e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TLV Electronic Solutions
+TLV Electronic Solutions is a business in the אלקטרוניקה industry.
+
+## Target Audience
+- חדשנים טכנולוגיים
+- מנהלי טכנולוגיה בחברות
+
+## Industry
+אלקטרוניקה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://tlv-electronic-solutions-10c88c5e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://tlv-electronic-solutions-10c88c5e.zappy5.app/robots.txt
